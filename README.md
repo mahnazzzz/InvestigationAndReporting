@@ -5,14 +5,13 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 | Date | GOOGLE QUERIES | Description |
 | ------ | ------ | ------ |
-
-
 | 27.09 11:00|https://datsoftlyngby.github.io/soft2018fall/UFO/01TheoryLittRevReflect.html | assignemts url  |
 | 27.09 11:00| https://docs.google.com/document/d/1GltBt7541g4csC8iPvoyICWh7rECNoH22deyWHnIdvE/edit | google docs |
 | 27.09 11:30| https://www.linqpad.net/Download.aspx | download linqpad|
-| 27.09 11:35|https://stackoverflow.com/questions/3681950/is-it-possible-to-run-linqpad-with-mono-mac | possible use linkpad on windows |
-| 27.09 11:00| https://www.google.dk/search?q=the+mother+of+all+demos&rlz=1C1NHXL_daDK778DK789&oq=the+mother++of+all+demos&aqs=chrome..69i57j0l5.8814j0j8&sourceid=chrome&ie=UTF-8 | the mother of all demos |
-| 03.10 22.14|https://www.youtube.com/watch?v=reRfw22XG18&t=394s | LinqPad Tutorial youtube video  |
+| 27.09 11:35|https://stackoverflow.com/questions/3681950/is-it-possible-to-run-linqpad-with-mono-mac | possible use linkpad on windows|
+| 27.09 11:00| https://www.google.dk/search
+q=the+mother+of+all+demos&rlz=1C1NHXL_daDK778DK789&oq=the+mother++of+all+demos&aqs=chrome..69i57j0l5.8814j0j8&sourceid=chrome&ie=UTF-8 | the mother of all demos |
+| 03.10 22.14|https://www.youtube.com/watch?v=reRfw22XG18&t=394s | LinqPad Tutorial youtube video |
 
 
 ### Today links
