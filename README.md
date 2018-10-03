@@ -1,7 +1,7 @@
 # InvestigationAndReporting
 ### Plugins
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+This table below is searching list for ufo assignment
 
 | Date | GOOGLE QUERIES | Description |
 | ------ | ------ | ------ |
@@ -23,7 +23,7 @@ we must list the links where we have searched for the answer to this assignment,
 
 
 
-* In the most client/server applications, there are many clients which are connected to one server, while, there is one client and many servers in linqpad.
+* In the most client/server applications, there are many clients which are connected to one server, while, there is one client and many servers in linqpad, such az mysql, xml, sql server ...
 
 
 + LINQPad doesn't work in Mono primarily because it relies on ActiPro's SyntaxEditor which does some Win32 interop. LINQPad itself also does some interop.
@@ -36,3 +36,5 @@ Inline-style:
 
 Conclusion:
 > A brief summary of which aspect of the exercise was taking you the longest time to solve, which part of the exercise was side tracking you the most (which dead-ends did you pursue), and what was the most helpful information you came across (it could be someone else helping you). How can you avoid those problems in the future, and how can the helpful resources help you in the future?
+
+The most challenging part, was to understand what Linkpad is and how it can help to execute a query easier from diferent db specially sql. In addition, it was good observation of how we can get queries from serveral server by simple syntax. 
