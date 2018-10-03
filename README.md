@@ -3,22 +3,25 @@
 
 Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | https://stackoverflow.com/questions/3681950/is-it-possible-to-run-linqpad-with-mono-mac |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Date | GOOGLE QUERIES | Description |
+| ------ | ------ | ------ |
+| 27.09 11:00|https://datsoftlyngby.github.io/soft2018fall/UFO/01TheoryLittRevReflect.html | assignemts url  |
+| 27.09 11:00| https://docs.google.com/document/d/1GltBt7541g4csC8iPvoyICWh7rECNoH22deyWHnIdvE/edit | google docs |
+| 27.09 11:30| https://www.linqpad.net/Download.aspx | download linqpad|
+| 27.09 11:35 https://stackoverflow.com/questions/3681950/is-it-possible-to-run-linqpad-with-mono-mac | possible use linkpad on windows |
+| 27.09 11:00| https://www.google.dk/search?q=the+mother+of+all+demos&rlz=1C1NHXL_daDK778DK789&oq=the+mother++of+all+demos&aqs=chrome..69i57j0l5.8814j0j8&sourceid=chrome&ie=UTF-8 | the mother of all demos |
+
+
 
 ### Today links
-https://www.linqpad.net/Download.aspx
-https://datsoftlyngby.github.io/soft2018fall/UFO/01TheoryLittRevReflect.html
-https://www.google.dk/search?q=the+mother+of+all+demos&rlz=1C1NHXL_daDK778DK789&oq=the+mother++of+all+demos&aqs=chrome..69i57j0l5.8814j0j8&sourceid=chrome&ie=UTF-8
-https://docs.google.com/document/d/1GltBt7541g4csC8iPvoyICWh7rECNoH22deyWHnIdvE/edit
+
+we must list the links where we have searched for the answer to this assignment, the problarms we had with search and our observation of the websites we have visited.
+
+
 
 ### About Linqpad
+
+
 
 * In the most client/server applications, there are many clients which are connected to one server, while, there is one client and many servers in linqpad.
 
