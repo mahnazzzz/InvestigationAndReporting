@@ -12,4 +12,6 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-https://user-images.githubusercontent.com/20173643/46432714-30362a00-c74f-11e8-9335-aeb11407bc15.PNG
+
+Inline-style: 
+![alt text](https://user-images.githubusercontent.com/20173643/46432714-30362a00-c74f-11e8-9335-aeb11407bc15.PNG)
