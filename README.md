@@ -20,12 +20,12 @@ https://docs.google.com/document/d/1GltBt7541g4csC8iPvoyICWh7rECNoH22deyWHnIdvE/
 
 ### About Linqpad
 
-..* In the most client/server applications, there are many clients which are connected to one server, while, there is one client and many servers in linqpad.
+* In the most client/server applications, there are many clients which are connected to one server, while, there is one client and many servers in linqpad.
 
 
-..* LINQPad doesn't work in Mono primarily because it relies on ActiPro's SyntaxEditor which does some Win32 interop. LINQPad itself also does some interop.
++ LINQPad doesn't work in Mono primarily because it relies on ActiPro's SyntaxEditor which does some Win32 interop. LINQPad itself also does some interop.
 
-..* An early prototype of LINQPad used a TextBox instead of a syntax editor - this might be what was tested against Mono. Linqpad uses LINQ to SQL rather than Entity Framework because LINQ to SQL is lighter and faster in building the metamodel when instantiated.
+- An early prototype of LINQPad used a TextBox instead of a syntax editor - this might be what was tested against Mono. Linqpad uses LINQ to SQL rather than Entity Framework because LINQ to SQL is lighter and faster in building the metamodel when instantiated.
 
 
 Inline-style: 
