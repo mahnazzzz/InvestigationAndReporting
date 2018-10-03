@@ -37,4 +37,4 @@ Inline-style:
 Conclusion:
 > A brief summary of which aspect of the exercise was taking you the longest time to solve, which part of the exercise was side tracking you the most (which dead-ends did you pursue), and what was the most helpful information you came across (it could be someone else helping you). How can you avoid those problems in the future, and how can the helpful resources help you in the future?
 
-The most challenging part, was to understand what Linkpad is and how it can help to execute a query easier from diferent db specially sql. In addition, it was good observation of how we can get queries from serveral server by simple syntax. Syntaxs are based on .NET, as for, it could be easy for a Client to take query from various servers.
+The most challenging part, was to understand what Linkpad is and how it can help to execute a query easier from different DB specially sql. In addition, it was good practice in getting queries from serveral servers by simple syntax. Syntaxs are based on .NET, as for, it could be easy for a client to take query from various servers. 
