@@ -33,3 +33,6 @@ we must list the links where we have searched for the answer to this assignment,
 
 Inline-style: 
 ![alt text](https://user-images.githubusercontent.com/20173643/46432714-30362a00-c74f-11e8-9335-aeb11407bc15.PNG)
+
+Conclusion:
+> A brief summary of which aspect of the exercise was taking you the longest time to solve, which part of the exercise was side tracking you the most (which dead-ends did you pursue), and what was the most helpful information you came across (it could be someone else helping you). How can you avoid those problems in the future, and how can the helpful resources help you in the future?
